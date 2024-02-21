@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @NecroWolf28! You can call me Meng.
-- 👀 I’m interested in music, specifically Metalcore right now :)
-- 🌱 I’m currently learning Java, Python and C, pursuing a Bachelor's Degree in Computer Science in NUS.
+- 👋 Hi, I’m @NecroWolf28! Final year student in NUS Computer Science 💻
+- 👀 When I'm not coding, I'm playing or making music, leaning more to pop punk and metal now 🤘🤘🤘
 
 <!---
 NecroWolf28/NecroWolf28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
